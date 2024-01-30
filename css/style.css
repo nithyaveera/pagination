@@ -1,0 +1,24 @@
+
+#tablee{
+    width: 70vw;
+   text-align: center;
+   border: 2px solid darkgray;
+   td{
+    padding: 4px;
+    border:1px solid darkgrey;
+   }
+   th{
+    border:1px solid darkgrey;
+    text-shadow: 1px 1px 10px gold;
+   }
+}
+#buttons{
+    flex-wrap: wrap;
+}
+#top{
+    text-align: center;
+    margin-top: 2vh;
+    h1{
+        font-weight: 400;
+    }
+}
